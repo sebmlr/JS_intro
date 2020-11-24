@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b66b0ad-7c60-4f38-9a22-ec905bfe1f2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS_intro_switch_richter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_intro_switch_cultivateur.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_intro_switch_cultivateur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_intro_calculateur.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS_intro_switch_cultivateur.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_intro_switch_cultivateur.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,18 +53,30 @@
       <option name="presentableId" value="Default" />
       <updated>1606204453199</updated>
       <workItem from="1606204454255" duration="407000" />
-      <workItem from="1606205234307" duration="5018000" />
+      <workItem from="1606205234307" duration="5347000" />
     </task>
+    <task id="LOCAL-00001" summary="js">
+      <created>1606210269835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606210269835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="js" />
+    <option name="LAST_COMMIT_MESSAGE" value="js" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606205959081">
+    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606210269422">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606205959081" />
+    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606210269422" />
     <state x="805" y="303" key="FileChooserDialogImpl" timestamp="1606204489070">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -82,5 +93,9 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="533" y="206" key="SettingsEditor/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606206067254" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606210271561">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606210271561" />
   </component>
 </project>

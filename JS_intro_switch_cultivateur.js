@@ -1,44 +1,44 @@
-const QUANTITEBLE = 12;
-const QUANTITEMAIS = 15;
-const QUANTITEORGE = 8;
-const QUANTITESEIGLE = 7;
-const PRIXBLEAUKG = 2.72;
-const PRIXMAIS = 2.89;
-const PRIXORGEAUKG = 1.89;
-const PRIXSEIGLEAUKG = 2.8;
+const ble =12;
+const mais =15;
+const orge =8;
+const seigle =7;
 
-var surface=0;
-var cereal=0;
-var cout=0;
-var semence=0;
+const prixBle =2.72;
+const prixMais =2.89;
+const prixOrge =1.89;
+const prixSeigle =2.8;
 
-surface=prompt("Saisir la surface du champ");
-cereal=prompt("Choisir le type de céréales : 1.Blé tendre 2.Maïs 3.Orge 4.Seigle");
+var choix = prompt("Choix semence (1.blé/2.mais/3.orge/4.seigle)");
+var metre = parseInt(prompt("cb de m² ? "));
+var kg;
+var prixTotal;
 
-switch (cereal) {
-    case"1":
-        document.write("Vous avez choisi du Blé tendre"+"<br/>");
-        document.write("Pour un champ de "+surface+"<br/>");
-        document.write("Il vous faut "+(semence=(surface/QUANTITEBLE))+" KG de semence"+"<br/>");
-        document.write("Le prix de revient est de : "+(cout=(PRIXBLEAUKG*semence))+" Euros"+"<br/>");
+
+switch (choix) {
+    case "1":
+        document.write("Vous avez choisi blé" + "<br />")
+        kg = (ble*metre)/1000
+        prixTotal = prixBle*kg
         break;
-    case"2":
-        document.write("Vous avez choisi du Blé tendre"+"<br/>");
-        document.write("Pour un champ de "+surface+"<br/>");
-        document.write("Il vous faut "+(semence=(surface/QUANTITEMAIS))+" KG de semence"+"<br/>");
-        document.write("Le prix de revient est de : "+(cout=(PRIXMAIS*semence))+" Euros")+"<br/>";
+    case "2":
+        document.write("Vous avez choisi maïs" + "<br />")
+        kg = (mais*metre)/1000
+        prixTotal = prixMais*kg
         break;
-    case"3":
-        document.write("Vous avez choisi du Blé tendre"+"<br/>");
-        document.write("Pour un champ de "+surface+"<br/>");
-        document.write("Il vous faut "+(semence=(surface/QUANTITEORGE))+" KG de semence"+"<br/>");
-        document.write("Le prix de revient est de : "+(cout=(PRIXORGEAUKG*semence))+" Euros"+"<br/>");
+    case "3":
+        document.write("Vous avez choisi Orge" + "<br />")
+        kg = (orge*metre)/1000
+        prixTotal = prixOrge*kg
         break;
-    case"4":
-        document.write("Vous avez choisi du Blé tendre"+"<br/>");
-        document.write("Pour un champ de "+surface+"<br/>");
-        document.write("Il vous faut "+(semence=(surface/QUANTITESEIGLE))+" KG de semence"+"<br/>");
-        document.write("Le prix de revient est de : "+(cout=(PRIXSEIGLEAUKG*semence))+" Euros"+"<br/>");
+    case "4":
+        document.write("Vous avez choisi Seigle" + "<br />")
+        kg = (seigle*metre)/1000
+        prixTotal = prixSeigle*kg
+        break;
     default:
-        document.write("Votre choix n'existe pas");
+        document.write("Erreur saisi")
 }
+
+document.write("Pour un champ de " + metre + " m²" + "<br />")
+document.write("Il vous faut " + kg + " kg de semence" + "<br />")
+document.write("Le prix de revient est de : " + prixTotal.toFixed(2) + "€" + "<br />")
