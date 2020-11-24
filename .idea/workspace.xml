@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b66b0ad-7c60-4f38-9a22-ec905bfe1f2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JS_intro_switch_richter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_cultivateur.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_intro_switch_cultivateur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_cultivateur.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_intro_switch_cultivateur.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kjC8Ftsghbs7hKqAmO2G2vtKKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b66b0ad-7c60-4f38-9a22-ec905bfe1f2e" name="Default Changelist" comment="" />
+      <created>1606204453199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606204453199</updated>
+      <workItem from="1606204454255" duration="407000" />
+      <workItem from="1606205234307" duration="5018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606205959081">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606205959081" />
+    <state x="805" y="303" key="FileChooserDialogImpl" timestamp="1606204489070">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="303" key="FileChooserDialogImpl/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606204489070" />
+    <state x="902" y="464" key="Github.ShareDialog" timestamp="1606204501347">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="902" y="464" key="Github.ShareDialog/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606204501347" />
+    <state x="825" y="184" key="Github.UntrackedFilesDialog" timestamp="1606204506179">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="825" y="184" key="Github.UntrackedFilesDialog/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606204506179" />
+    <state x="533" y="206" key="SettingsEditor" timestamp="1606206067254">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="533" y="206" key="SettingsEditor/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606206067254" />
+  </component>
+</project>
