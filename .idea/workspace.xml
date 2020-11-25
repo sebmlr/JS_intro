@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b66b0ad-7c60-4f38-9a22-ec905bfe1f2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS_intro_switch_calculateur.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_intro_calculateur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_calculateur.html" beforeDir="false" afterPath="$PROJECT_DIR$/switch/JS_intro_switch_calculateur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intro/JS_intro_ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intro/JS_intro_ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intro/JS_intro_ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intro/JS_intro_ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intro/JS_intro_ex3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intro/JS_intro_ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if.html" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if.js" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if_gretastore.html" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if_gretastore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if_gretastore.js" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if_gretastore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if_location.html" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if_location.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if_location.js" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if_location.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if_temperatures.html" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if_temperatures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_if_temperatures.js" beforeDir="false" afterPath="$PROJECT_DIR$/If/JS_intro_if_temperatures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_calculateur.js" beforeDir="false" afterPath="$PROJECT_DIR$/switch/JS_intro_switch_calculateur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_cultivateur.html" beforeDir="false" afterPath="$PROJECT_DIR$/switch/JS_intro_switch_cultivateur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_cultivateur.js" beforeDir="false" afterPath="$PROJECT_DIR$/switch/JS_intro_switch_cultivateur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_richter.html" beforeDir="false" afterPath="$PROJECT_DIR$/switch/JS_intro_switch_richter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_intro_switch_richter.js" beforeDir="false" afterPath="$PROJECT_DIR$/switch/JS_intro_switch_richter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606204453199</updated>
       <workItem from="1606204454255" duration="407000" />
-      <workItem from="1606205234307" duration="9548000" />
+      <workItem from="1606205234307" duration="10892000" />
+      <workItem from="1606294985499" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1606210269835</created>
@@ -70,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606210628577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="js">
+      <created>1606215134820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606215134820</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +107,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606210628213">
+    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606215134418">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606210628213" />
+    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606215134418" />
     <state x="805" y="303" key="FileChooserDialogImpl" timestamp="1606204489070">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -101,9 +127,9 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="533" y="206" key="SettingsEditor/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606206067254" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606210629734">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606215135857">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606210629734" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606215135857" />
   </component>
 </project>
