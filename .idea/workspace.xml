@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b66b0ad-7c60-4f38-9a22-ec905bfe1f2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/for/JS_intro_for_interets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for/JS_intro_for_palindrome.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebml\Desktop\JavasScript\JS_intro" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebml\Desktop\JavasScript\JS_intro\while" />
       <recent name="C:\Users\sebml\Desktop\JavasScript\JS_intro\for" />
       <recent name="C:\Users\sebml\Desktop\JavasScript\JS_intro\switch" />
       <recent name="C:\Users\sebml\Desktop\JavasScript\JS_intro\If" />
@@ -63,7 +65,12 @@
       <updated>1606204453199</updated>
       <workItem from="1606204454255" duration="407000" />
       <workItem from="1606205234307" duration="10892000" />
-      <workItem from="1606294985499" duration="9837000" />
+      <workItem from="1606294985499" duration="10555000" />
+      <workItem from="1606308116726" duration="19000" />
+      <workItem from="1606308154499" duration="2000" />
+      <workItem from="1606308162931" duration="1000" />
+      <workItem from="1606308168436" duration="2000" />
+      <workItem from="1606388592892" duration="12470000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1606210269835</created>
@@ -100,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606295445078</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="js">
+      <created>1606305721145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606305721145</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +125,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606295444687">
+    <state x="644" y="53" key="CommitChangelistDialog2" timestamp="1606305720730">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606295444687" />
+    <state x="644" y="53" key="CommitChangelistDialog2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606305720730" />
     <state x="805" y="303" key="FileChooserDialogImpl" timestamp="1606204489070">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -131,9 +145,9 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="902" y="235" width="1078" height="757" key="SettingsEditor/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606301995988" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606295446423">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606305722459">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606295446423" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/340.-1080.1920.1042/-1920.160.1920.1050/0.0.2048.1122@0.0.2048.1122" timestamp="1606305722459" />
   </component>
 </project>
