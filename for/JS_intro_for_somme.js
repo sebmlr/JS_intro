@@ -1,4 +1,4 @@
-var nombre=5;
+var nombre=0;
 var somme=0;
 var index=0;
 
